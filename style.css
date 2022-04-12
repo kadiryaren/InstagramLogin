@@ -1,0 +1,58 @@
+#login-iphone-image{
+    width: 300px !important;
+    border-radius: 50px;
+}
+
+form{
+    width:400px !important;
+    height:420px;
+    border: 1px solid rgb(202, 202, 202);
+}
+
+#form-logo{
+    width: 70%;
+    height: 70px;
+    margin-top: 20px;
+}
+
+.form-check{
+    width: 70%;
+    height: 35px;
+    margin-top: 20px;
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 5px !important;
+}
+input{
+    font-size: 12px !important;
+}
+.login{
+    width: 70%;
+    height: 35px;
+    margin-top: 20px;
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 5px !important;
+    font-size: 15px;
+}
+
+.forgot-password{
+    width:400px !important;
+    height:70px;
+    border: 1px solid rgb(202, 202, 202);
+}
+a{
+    text-decoration: none;
+    color: rgb(42, 42, 180);
+}
+#forgot-password{
+    font-size: 12px !important;
+}
+.get-app-image{
+    width: 150px;
+}
+.get-app{
+    width:400px;
+}
+.footer-items-1{
+    color: rgb(124, 124, 124);
+    font-size: 12px;
+}
