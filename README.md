@@ -1,2 +1,2 @@
-# Instagram_Login
+# InstagramLogin
  Instagram Login Page Clone [ Responsive ]
